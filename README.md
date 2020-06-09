@@ -7,4 +7,4 @@
 
 <hr>
 
-Welcome to the Combate a Fraude's Xamarin repository! We already have Xamarin customers, but we don't have any documentation yet :cry:. Wanna help us? Please, mail to out [Head of Mobile](mailto:frederico.gassen@combateafraude.com) :green_heart:
+Welcome to the Combate a Fraude's Xamarin repository! We already have Xamarin customers, but we don't have any documentation yet :cry:. Wanna help us? Please, mail to our [Head of Mobile](mailto:frederico.gassen@combateafraude.com) :green_heart:
